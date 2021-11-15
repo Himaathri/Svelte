@@ -1,0 +1,37 @@
+Microsoft Windows [Version 10.0.18362.266]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\P C V>npm install -g degit
+npm notice
+npm notice New major version of npm available! 7.15.1 -> 8.1.3
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v8.1.3
+npm notice Run npm install -g npm@8.1.3 to update!
+npm notice
+
+added 1 package, and audited 2 packages in 5s
+
+found 0 vulnerabilities
+npm notice
+npm notice New major version of npm available! 7.15.1 -> 8.1.3
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v8.1.3
+npm notice Run npm install -g npm@8.1.3 to update!
+npm notice
+
+C:\Users\P C V>cd Desktop
+
+C:\Users\P C V\Desktop>cd SVELETE
+
+C:\Users\P C V\Desktop\SVELETE>cd Day-01
+
+C:\Users\P C V\Desktop\SVELETE\Day-01>degit sveletejs/template myproject
+! could not fetch remote https://github.com/sveletejs/template
+! could not find commit hash for HEAD
+
+C:\Users\P C V\Desktop\SVELETE\Day-01>degit sveltejs/template myproject
+> cloned sveltejs/template#HEAD to myproject
+
+C:\Users\P C V\Desktop\SVELETE\Day-01>cd myproject
+
+C:\Users\P C V\Desktop\SVELETE\Day-01\myproject>code .
+
+C:\Users\P C V\Desktop\SVELETE\Day-01\myproject>
